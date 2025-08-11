@@ -187,7 +187,9 @@ JSON validators
 Data class converters (e.g., Pydantic)
 
 🧩 How These Fit Together
+
 Imagine you're building an AI assistant for HR recruiting:
+
 Prompt Template: “Analyze the following resume...”
 Chat Interface: User uploads resumes and follows up with questions.
 LLM parses resumes into structured formats.
