@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 # Ensure that the token is being loaded from environment variables
-api_token = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+api_token = os.getenv("MY_TOKEN")
 
 # Check if the token is correctly loaded
 if not api_token:
