@@ -1,20 +1,14 @@
-🧠 What is Generative AI?
+# What is Generative AI?
 Generative AI refers to artificial intelligence systems designed to create new content—text, images, audio, video, code, or even 3D models.
 
-🎨 Examples of what it can generate:
-Articles, poems, and emails (text)
+Examples of what it can generate:
+     a). Articles, poems, and emails (text)
+     b). Portraits and digital art (images)
+     c). Music and sound effects (audio)
+     d). Dialogue for video games (scripts)
 
-Portraits and digital art (images)
-
-Music and sound effects (audio)
-
-Dialogue for video games (scripts)
-
-Source code (programming)
-
-Marketing copy, resumes, social media content
-
-Unlike traditional AI, which classifies or predicts, generative AI creates.
+Source code (programming):
+Marketing copy, resumes, social media content Unlike traditional AI, which classifies or predicts, generative AI creates.
 
 ⚙️ How Does Generative AI Work?
 Generative AI is powered by machine learning, especially a type called deep learning. The most common models used today are transformers—like GPT (for text), DALL·E (for images), and Codex (for code).
