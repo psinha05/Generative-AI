@@ -93,3 +93,38 @@ Challenge	Description
 ⚖️ Bias	May reflect biases present in training data
 📉 Quality control	Needs human review for accuracy in many use cases
 💼 Regulation	Raises legal and ethical concerns (e.g., deepfakes, copyright)
+
+
+# Generative AI Tools:
+   Large Language Models (LLMs) like GPT-4 are at the core of modern AI applications. They’re powerful, but to use them effectively in real-world scenarios, we have used specific patterns and tools.
+   Fews of them are mentioned and explain with code and examples :
+
+   1. 📄 Prompt Templates
+❓What are they?
+Prompt templates are predefined formats or structures used to craft consistent and reliable prompts when interacting with LLMs.
+
+🛠 Why are they used?
+To reduce ambiguity
+To make responses more predictable
+To enable prompt reuse and modularity
+
+Use cases:
+Dynamic chatbot conversations
+Generating documents or emails
+Standardizing user queries for better results
+
+2. 📚 Parsers and Structured Output Models
+❓What are they?
+Parsers and structured output models help transform the LLM’s raw text output into machine-readable formats (e.g., JSON, XML, or custom data classes).
+
+⚙️ Why this matters?
+LLMs generate free-form text, which is flexible but hard to use in automated systems. Structured outputs make it easier to:
+
+Validate data
+Feed results into other systems
+Automate decision-making
+
+ Tools:
+Pydantic
+LangChain’s StructuredOutputParser
+OpenAI Function Calling / JSON mode
