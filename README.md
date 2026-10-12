@@ -216,7 +216,7 @@ In OpenAI’s ecosystem, this includes function calling and tools like:
    *      Databases
    *      Custom business tools
 
-🔗 Chaining:
+🔗 **Chaining**:
 
 Combining multiple steps using outputs from one step as input to the next.
 
