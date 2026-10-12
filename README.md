@@ -70,7 +70,7 @@ Marketing: Social media content, product visuals
 🛠️ Tools: DALL·E, Midjourney, Adobe Firefly, Canva AI
 
 
-🎥 3.** Video & Animation**
+🎥 3.**Video & Animation**
 Video creation: Short clips for social media
 
 Deepfakes & dubbing: Replacing faces or voices in videos
@@ -99,7 +99,7 @@ Bug fixes & documentation: Auto-explaining code or suggesting improvements
 
 🛠️ Tools: GitHub Copilot, CodeWhisperer, Tabnine
 
-🏥 6. Healthcare
+🏥 6. **Healthcare**
 
 Medical imaging: Generating synthetic X-rays or MRIs for training
 
@@ -109,7 +109,7 @@ Drug discovery: Generating molecule structures
 
 🛠️ Tools: IBM Watson, BioGPT
 
-📈 7. Business & Productivity
+📈 7. **Business & Productivity**
 
 Data insights: Auto-generating charts or executive summaries
 
@@ -119,11 +119,12 @@ Emails & reports: Auto-writing or improving communication
 
 🛠️ Tools: Notion AI, Microsoft Copilot, Google Gemini
 
-🤖 Limitations and Challenges
+
+🤖 **Limitations and Challenges**
 
 Despite its power, generative AI has limitations:
 
-Challenge	Description:
+**Challenge Description**
 
 ✖️ Hallucination	Sometimes generates false or misleading information
 
@@ -144,6 +145,7 @@ Challenge	Description:
 
    1. 📄 Prompt Templates
    2. 
+
 ❓What are they?
 
 Prompt templates are predefined formats or structures used to craft consistent and reliable prompts when interacting with LLMs.
