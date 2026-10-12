@@ -143,8 +143,7 @@ Despite its power, generative AI has limitations:
    
    Fews of them are mentioned and explain with code and examples :
 
-   1. 📄 Prompt Templates
-   2. 
+   1. 📄 **Prompt Templates**
 
 ❓What are they?
 
@@ -161,8 +160,9 @@ Use cases:
         *   Dynamic chatbot conversations
         *   Generating documents or emails
         *   Standardizing user queries for better results
+        
 
-2. 📚 Parsers and Structured Output Models
+2. 📚 **Parsers and Structured Output Models**
    
 ❓What are they?
 
@@ -184,7 +184,7 @@ Validate data
           iii).  OpenAI Function Calling / JSON mode
 
 
-3. 💬 Chat Interfaces
+3. 💬 **Chat Interfaces**
    
 ❓What are they?
 
@@ -202,7 +202,7 @@ Applications:
   *     Personal assistants (like ChatGPT, Google Bard)
   *     Internal tools with conversation memory
 
-4. 🔧 Tool Usage and Chaining
+4. 🔧**Tool Usage and Chaining**
  
 ❓What is it?
 
@@ -237,7 +237,7 @@ Final Output: "10% of Tokyo's population is approximately 1.4 million."
       iii).  OpenAI tool calling API
       iv).   AutoGPT / Agent systems
 
-5. 📦 Output Formatting and Post-Processing
+5. 📦 **Output Formatting and Post-Processing**
    
 ❓What is it?
 
@@ -258,7 +258,7 @@ Tools:
      *   JSON validators
      *   Data class converters (e.g., Pydantic)
 
-🧩 How These Fit Together
+🧩 **How These Fit Together**
 
 Imagine you're building an AI assistant for HR recruiting:
 
