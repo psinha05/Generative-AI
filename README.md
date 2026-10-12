@@ -2,7 +2,7 @@
 
 Generative AI refers to artificial intelligence systems designed to create new content—text, images, audio, video, code, or even 3D models.
 
-Examples of what it can generate:
+Examples of what it can generate :-
 
      a). Articles, poems, and emails (text)
      
@@ -12,29 +12,29 @@ Examples of what it can generate:
      
      d). Dialogue for video games (scripts)
 
-Source code (programming):
+**Source code (programming):**
 
 Marketing copy, resumes, social media content Unlike traditional AI, which classifies or predicts, generative AI creates.
 
-⚙️ How Does Generative AI Work?
+⚙️ **How Does Generative AI Work?**
 
 Generative AI is powered by machine learning, especially a type called deep learning. 
 The most common models used today are transformers—like GPT (for text), DALL·E (for images), and Codex (for code).
 
-General Workflow:
+**General Workflow:**
 
 Training on massive datasets. The model learns from billions of examples—books, images, code, etc.—to understand patterns and relationships.
 
-Learning probability distributions:
+**Learning probability distributions:**
 The model doesn't memorize facts; it learns probabilities of what comes next.
 
-For example:
+**For example:**
 "The cat sat on the..." → high probability: "mat", "sofa", "floor"
 
-Generating new content
+**Generating new content**
 When prompted, the model samples from this learned distribution to create outputs.
 
-Models Behind Generative AI:
+**Models Behind Generative AI:**
 
 GPT (text generation)
 
@@ -45,7 +45,7 @@ MusicLM / Jukebox (audio/music generation)
 Codex / AlphaCode (code generation)
 
 
-🌍 Real-World Uses of Generative AI
+🌍 **Real-World Uses of Generative AI**
 
 Generative AI is being adopted across industries. Here's how it’s used in the real world:
 
@@ -55,11 +55,11 @@ Generative AI is being adopted across industries. Here's how it’s used in the 
       
    3.  Translation & summarization: Converting languages or summarizing long documents
 
-🛠️ Tools: OpenAI ChatGPT, Jasper, Copy.ai
+🛠️ **Tools: OpenAI ChatGPT, Jasper, Copy.ai**
 
 
 
-🎨 2. Image & Art Generation
+🎨 2. **Image & Art Generation**
 
 Design: Creating logos, illustrations, or concepts for games/movies
 
@@ -70,7 +70,7 @@ Marketing: Social media content, product visuals
 🛠️ Tools: DALL·E, Midjourney, Adobe Firefly, Canva AI
 
 
-🎥 3. Video & Animation
+🎥 3.** Video & Animation**
 Video creation: Short clips for social media
 
 Deepfakes & dubbing: Replacing faces or voices in videos
@@ -80,7 +80,7 @@ Virtual humans: AI-generated news anchors, avatars
 🛠️ Tools: Runway ML, Synthesia, Pika Labs
 
 
-🎵 4. Music & Audio
+🎵 4. **Music & Audio**
 
 Composing music: Background scores, jingles, or soundtracks
 
@@ -91,7 +91,7 @@ Podcast enhancement: Auto-generated scripts, background music
 🛠️ Tools: AIVA, MusicLM, ElevenLabs
 
 
-👨‍💻 5. Code Generation
+👨‍💻 5. **Code Generation**
 
 Developer assistants: Autocomplete code, write functions
 
